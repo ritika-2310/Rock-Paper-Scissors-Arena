@@ -36,17 +36,6 @@ Conditional Logic for determining game outcomes.
 <br>
 Responsive UI Elements using Flexbox.
 <br><br>
-🚀 Installation & Setup
-<br><br>
-Clone or Download the Repository:
-<br><br>
-git clone https://github.com/yourusername/rock-paper-scissors.git
-<br>
-<br>
-Open in Browser:
-<br>
-Double-click index.html or open with your preferred browser.
-<br><br>
 📖 How to Play
 <br><br>
 Click on Rock, Paper, or Scissors icon.
